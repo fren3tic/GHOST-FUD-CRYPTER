@@ -34,10 +34,6 @@ Usage/Install
 - Click "! CRYPT NOW !" button, the process may take few minute.
 - Finally enjoy your FUD crypted malware!
 
-😈GHOST in action!😈
-----
-
-<img src="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/blob/main/images/fudcrypter_orionx.png" alt="GHOST Free fud crypter" width="300px"/>
 
 How does it work
 ----
