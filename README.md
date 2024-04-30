@@ -46,9 +46,3 @@ GHOST got a complex AES256 and XOR encryption. It crypt the bytes of your exe so
 <br>
 IT'S THE END USER'S RESPONSIBILITY TO OBEY ALL APPLICABLE LOCAL, STATE AND FEDERAL LAWS. DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
 
-💗Thank you💗
-----
-
-Enjoy it !
-
-<div align="center" size="40px">💗❤❤💗</div>
