@@ -5,7 +5,7 @@
 <br>
 <br>
 The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
-<div class="center" align="center"><center><img src="LOGOURL" width="120" alt="ghost fud crypter logo"/></center></div>
+<div class="center" align="center"><center><img src="https://github.com/DimitriVolkov1/GHOST-FUD-CRYPTER/blob/main/GHOST%20logo.png" width="120" alt="ghost fud crypter logo"/></center></div>
 <br>
 <div align="center" class="center">
 <center><strong>GHOST FUD CRYPTER <br> <a href=""> DOWNLOAD </a></font></strong></center>
